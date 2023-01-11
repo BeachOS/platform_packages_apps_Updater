@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="changelog_summary">Zobraziť zoznam zmien</string>
+    <string name="changelog_unavailable">Zoznam zmien nie je dostupný</string>
+    <string name="changelog_title">Zoznam zmien</string>
+</resources>

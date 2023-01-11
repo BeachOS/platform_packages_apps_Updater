@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="changelog_unavailable">Список изменений недоступен</string>
+    <string name="changelog_summary">Нажмите, чтобы просмотреть список изменений</string>
+    <string name="changelog_title">Список изменений</string>
+    <string name="notification_initial_title">Служба обновления системы</string>
+</resources>
